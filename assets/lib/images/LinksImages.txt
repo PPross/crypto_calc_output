@@ -1,0 +1,4 @@
+krypto-Brieftasche: <a href="https://www.flaticon.com/de/kostenlose-icons/blockchain" title="blockchain Icons">Blockchain Icons erstellt von Soremba - Flaticon</a>
+Bitcoin: <a href="https://www.flaticon.com/de/kostenlose-icons/bitcoin" title="bitcoin Icons">Bitcoin Icons erstellt von Tempo_doloe - Flaticon</a>
+etherum: <a href="https://www.flaticon.com/de/kostenlose-icons/atherum" title="Ätherum Icons">Ätherum Icons erstellt von Freepik - Flaticon</a>
+Solana: <a href="https://www.flaticon.com/de/kostenlose-icons/solana" title="solana Icons">Solana Icons erstellt von bouzix - Flaticon</a>
